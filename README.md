@@ -1,0 +1,1 @@
+# Alfred AI Spellfix
