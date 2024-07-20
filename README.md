@@ -26,8 +26,11 @@ This repository contains two Alfred workflows for spell-checking and correcting 
      - `src/claude_correction.py`
      - `src/openai_correction.py`
 
+## How to Use
 
-### Notes
+This workflow allows you to highlight text anywhere on your Mac, trigger the workflow with a keyboard shortcut, and automatically spell-check and correct the text using AI. The corrected text will then replace the original text.
+
+## Notes
 
 - Ensure that you have Python installed on your system.
 - The workflows require the `requests` Python library. Install it using:
