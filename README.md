@@ -2,7 +2,7 @@
 
 This repository contains two Alfred workflows for spell-checking and correcting text using AI models from Anthropic (Claude) and OpenAI. Follow the steps below to set up and configure the workflows.
 
-![workflow](<images/CleanShot 2024-07-20 at 13.12.54@2x.png>)
+![alt text](</images/CleanShot 2024-07-20 at 13.14.24@2x.png>)
 
 ## Installation
 
