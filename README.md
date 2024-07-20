@@ -30,6 +30,10 @@ This repository contains two Alfred workflows for spell-checking and correcting 
 
 This workflow allows you to highlight text anywhere on your Mac, trigger the workflow with a keyboard shortcut, and automatically spell-check and correct the text using AI. The corrected text will then replace the original text.
 
+```text
+The quick brown fox jumpd over the lazy dog. This is an exmple of a sentence with multiple erors. Lets see how well the AI can correkt this text.
+```
+
 ## Notes
 
 - Ensure that you have Python installed on your system.
