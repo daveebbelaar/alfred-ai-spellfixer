@@ -1,4 +1,4 @@
-# Alfred AI Spellfix
+# Alfred AI SpellFixer
 
 This repository contains two Alfred workflows for spell-checking and correcting text using AI models from Anthropic (Claude) and OpenAI. Follow the steps below to set up and configure the workflows.
 
@@ -23,8 +23,8 @@ This repository contains two Alfred workflows for spell-checking and correcting 
 
 4. **Check and Customize Python Scripts:**
    - If you want to change the prompts used for spell-checking and correction, you can edit the Python scripts located in the `src` directory and update them in the workflow.
-     - `src/claude_correction.py`
-     - `src/openai_correction.py`
+     - `src/claude_spellfixer.py`
+     - `src/openai_spellfixer.py`
 
 ## How to Use
 
