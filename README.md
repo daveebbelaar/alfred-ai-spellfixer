@@ -1,5 +1,3 @@
-### README.md
-
 # Alfred AI Spellfix
 
 This repository contains two Alfred workflows for spell-checking and correcting text using AI models from Anthropic (Claude) and OpenAI. Follow the steps below to set up and configure the workflows.
@@ -31,8 +29,8 @@ This repository contains two Alfred workflows for spell-checking and correcting 
 
 - Ensure that you have Python installed on your system.
 - The workflows require the `requests` Python library. Install it using:
-  ```bash
-  pip install requests
-  ```
+```bash
+pip install requests
+```
 
 Now you are ready to use the Alfred AI Spellfix workflows to quickly correct text using the power of AI models.
