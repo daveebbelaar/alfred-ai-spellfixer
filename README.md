@@ -41,7 +41,6 @@ This repository contains two Alfred workflows for spell-checking and correcting 
 ![Python installation](</images/CleanShot 2024-09-23 at 19.25.05@2x.png>)
 
 
-
 ## How to Use
 
 This workflow allows you to highlight text anywhere on your Mac, trigger the workflow with a keyboard shortcut, and automatically spell-check and correct the text using AI. The corrected text will then replace the original text.
@@ -53,9 +52,14 @@ The quick brown fox jumpd over the lazy dog. This is an exmple of a sentence wit
 ## Notes
 
 - Ensure that you have Python installed on your system.
-- The workflows require the `requests` Python library. Install it using:
+- The workflows require the `requests` library. If it's missing, you can install it via:
+
 ```bash
 pip install requests
 ```
 
-Now you are ready to use the Alfred AI Spellfix workflows to quickly correct text using the power of AI models.
+Now you are ready to use the Alfred AI Spellfix workflows to quickly correct text using the power of AI models in any app.
+
+## Does this work on Windows?
+
+You can most likely make this work on Windows by using something like [Wox](https://github.com/Wox-launcher/Wox). Let me know via the issues or comments if you found a solution!
