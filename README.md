@@ -16,7 +16,8 @@ This repository contains two Alfred workflows for spell-checking and correcting 
 ## Installation
 
 1. **Open the Workflows:**
-   - Double-click the `Claude Spellfix.alfredworkflow` or `OpenAI Spellfix.alfredworkflow` file to import them into Alfred.
+   - Download either the `Claude Spellfix.alfredworkflow` or `OpenAI Spellfix.alfredworkflow` from this repository.
+   - Double clikc the file to import it into Alfred.
 
 2. **Set the Hotkey:**
    - Open Alfred Preferences.
