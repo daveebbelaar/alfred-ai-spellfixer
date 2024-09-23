@@ -4,10 +4,17 @@ This repository contains two Alfred workflows for spell-checking and correcting 
 
 ![alt text](</images/CleanShot 2024-07-20 at 13.14.24@2x.png>)
 
+## Requirements
+
+- Python 3 [download here](https://www.python.org/downloads/)
+- Alfred [download here](https://www.alfredapp.com)
+- Alfred Powerpack [buy here](https://www.alfredapp.com/shop/)
+- [OpenAI](https://openai.com/index/openai-api/) or [Anthropic](https://console.anthropic.com) API key (or implement any other LLM)
+
 ## Installation
 
 1. **Open the Workflows:**
-   - Double-click the `Claude Spellfix.alfredworkflow` and `OpenAI Spellfix.alfredworkflow` files to import them into Alfred.
+   - Double-click the `Claude Spellfix.alfredworkflow` or `OpenAI Spellfix.alfredworkflow` file to import them into Alfred.
 
 2. **Set the Hotkey:**
    - Open Alfred Preferences.
