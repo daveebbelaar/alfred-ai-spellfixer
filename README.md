@@ -34,6 +34,12 @@ This repository contains two Alfred workflows for spell-checking and correcting 
    - If you want to change the prompts used for spell-checking and correction, you can edit the Python scripts located in the `src` directory and update them in the workflow.
      - `src/claude_spellfixer.py`
      - `src/openai_spellfixer.py`
+5. **Select the right Python version**
+   - Make sure the correct python version is selected. It defaults to `usr/bin/python3` (see image below)
+
+![Python installation](</images/CleanShot 2024-09-23 at 19.25.05@2x.png>)
+
+
 
 ## How to Use
 
