@@ -6,9 +6,9 @@ This repository contains two Alfred workflows for spell-checking and correcting 
 
 ## Requirements
 
-- Python 3 [download here](https://www.python.org/downloads/)
-- Alfred [download here](https://www.alfredapp.com)
-- Alfred Powerpack [buy here](https://www.alfredapp.com/shop/)
+- [Python 3](https://www.python.org/downloads/)
+- [Aflred](https://www.alfredapp.com)
+- [Alfred Powerpack](https://www.alfredapp.com/shop/)
 - [OpenAI](https://openai.com/index/openai-api/) or [Anthropic](https://console.anthropic.com) API key (or implement any other LLM)
 
 ## Installation
