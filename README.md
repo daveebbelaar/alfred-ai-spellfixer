@@ -14,7 +14,7 @@ This repository contains two Alfred workflows for spell-checking and correcting 
     - Create new api key [here](https://platform.openai.com/api-keys)
   - [Anthropic API Key](https://console.anthropic.com)
   
-### Installing Pyton via Command Line Tools
+### Installing Python via Command Line Tools
 
 1. Install the [command line tools](https://mac.install.guide/commandlinetools/) by running this in the terminal:
 
