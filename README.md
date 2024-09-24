@@ -6,7 +6,19 @@ This repository contains two Alfred workflows for spell-checking and correcting 
 
 ## Requirements
 
-- [Python 3](https://www.python.org/downloads/)
+- Python 3
+  - Install the command line tools by running this in the terminal:
+
+   ```bash
+   xcode-select --install
+   ```
+   
+   - Than install the request library with pip via:
+
+   ```bash
+   xcode-select --install
+   ```
+
 - [Aflred](https://www.alfredapp.com)
 - [Alfred Powerpack](https://www.alfredapp.com/shop/)
 - Large Language Model:
@@ -48,15 +60,6 @@ This workflow allows you to highlight text anywhere on your Mac, trigger the wor
 
 ```text
 The quick brown fox jumpd over the lazy dog. This is an exmple of a sentence with multiple erors. Lets see how well the AI can correkt this text.
-```
-
-## Notes
-
-- Ensure that you have Python installed on your system.
-- The workflows require the `requests` library. If it's missing, you can install it via:
-
-```bash
-pip install requests
 ```
 
 Now you are ready to use the Alfred AI Spellfix workflows to quickly correct text using the power of AI models in any app.
