@@ -11,6 +11,7 @@ This repository contains two Alfred workflows for spell-checking and correcting 
 - [Alfred Powerpack](https://www.alfredapp.com/shop/)
 - Large Language Model:
   - [OpenAI API Key](https://openai.com/index/openai-api/)
+    - Create new api key [here](https://platform.openai.com/api-keys)
   - [Anthropic API Key](https://console.anthropic.com)
   
 ## Installation
