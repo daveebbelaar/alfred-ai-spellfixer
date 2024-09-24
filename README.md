@@ -7,13 +7,13 @@ This repository contains two Alfred workflows for spell-checking and correcting 
 ## Requirements
 
 - Python 3
-  1. Install the command line tools by running this in the terminal:
+1. Install the command line tools by running this in the terminal:
 
 ```bash
 xcode-select --install
 ```
    
-  2. Than install the request library with pip via:
+2. Than install the request library with pip via:
 
 ```bash
 /usr/bin/python3 -m pip install --user requests
