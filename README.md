@@ -16,7 +16,7 @@ This repository contains two Alfred workflows for spell-checking and correcting 
   
 ### Installing Pyton via Command Line Tools
 
-1. Install the command line tools by running this in the terminal:
+1. Install the [command line tools](https://mac.install.guide/commandlinetools/) by running this in the terminal:
 
 ```bash
 xcode-select --install
