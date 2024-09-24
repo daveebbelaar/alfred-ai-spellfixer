@@ -7,18 +7,6 @@ This repository contains two Alfred workflows for spell-checking and correcting 
 ## Requirements
 
 - Python 3
-1. Install the command line tools by running this in the terminal:
-
-```bash
-xcode-select --install
-```
-   
-2. Than install the request library with pip via:
-
-```bash
-/usr/bin/python3 -m pip install --user requests
-```
-
 - [Aflred](https://www.alfredapp.com)
 - [Alfred Powerpack](https://www.alfredapp.com/shop/)
 - Large Language Model:
@@ -26,6 +14,20 @@ xcode-select --install
     - Create new api key [here](https://platform.openai.com/api-keys)
   - [Anthropic API Key](https://console.anthropic.com)
   
+### Installing Pyton via Command Line Tools
+
+1. Install the command line tools by running this in the terminal:
+
+```bash
+xcode-select --install
+```   
+
+2. Than install the request library with pip via:
+
+```bash
+/usr/bin/python3 -m pip install --user requests
+```
+
 ## Installation
 
 1. **Open the Workflows:**
